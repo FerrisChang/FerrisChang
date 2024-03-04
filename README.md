@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a independent contributor who likes to code and is passionate about making software application and learning new technologies. My main tech stack is (MERN) MongoDB, Express, ReactJS, and Node and occasionally I will work with Java. I currently work on the  Frontend UI, but wish to work more with the Backend to round out my skill sets.</p>
+<p align="left">I'm an independent contributor who likes to code and is passionate about making software applications while learning new technologies. My main tech stack is mainly (MERN) MongoDB, Express, ReactJS, and Node and occasionally I will work with Java. I currently work on the Frontend, but I wish to work more with the Backend to better round out my skill sets as a Developer. I have always been interested in building different things and software development fits that perfectly for me. A little more about me that has nothing to do with programming or development, I was born and raised in the US (first generation), I joined the Navy out of high school, and am a licensed massage therapist in my free time. </p>
 
 ###
 
