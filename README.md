@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">NOTE: languages above do not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.</p>
+<p align="left"><em>NOTE: languages above do not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.</em></p>
 
 ###
 
