@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="42" alt="webpack logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="42" alt="npm logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="googlecloud logo"  />
 </div>
 
 ###
